@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/PharmacyApp/.vs/PharmacyApp/CopilotIndices/17.14.1091.29919
+/PharmacyApp/.vs/PharmacyApp/DesignTimeBuild
+/PharmacyApp/.vs/PharmacyApp/v17
+/PharmacyApp/.vs/PharmacyApp/FileContentIndex
+/PharmacyApp/.vs/ProjectEvaluation
+/PharmacyApp/PharmacyApp/bin/Debug/net8.0
+/PharmacyApp/.vs/PharmacyApp/config
+/PharmacyApp/PharmacyApp/obj
